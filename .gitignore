@@ -1,3 +1,6 @@
 .cursor
 .shared
 子页面
+node_modules
+dist
+.DS_Store
