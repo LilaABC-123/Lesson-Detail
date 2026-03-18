@@ -1,5 +1,6 @@
 module.exports = {
-  publicPath: './',
+  publicPath: '/Lesson-Detail/',
+  outputDir: '../docs',
   transpileDependencies: true,
   devServer: {
     host: '127.0.0.1',
